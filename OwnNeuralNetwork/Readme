@@ -1,0 +1,3 @@
+This is a simple neural network done with the help of the book Make your own Neural Network.
+This project is done on mnist data set of hand written numbers.
+Using this neural network we are able to identify the hand written numbers with great accuracy of upto 95%
